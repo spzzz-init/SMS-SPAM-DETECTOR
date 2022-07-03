@@ -1,11 +1,8 @@
 # SMS-SPAM-DETECTOR
-```
 This project is to detect spam sms  using dataset from Kaggale
-```
-```
+
 In this project I used:
-```
-```
+
 PANDAS
 NUMPY
 NLTK
